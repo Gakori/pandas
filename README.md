@@ -10,8 +10,8 @@
 
 ## SCREENSHOTS
 
-![alt text](/images/sss.png)
-![alt text](images/sss.png)
+![alt text](/images/s1.png)
+![alt text](images/s2.png)
 
 ## SetUp / Installation Requirements
   Clone the repo by running:
