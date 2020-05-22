@@ -9,14 +9,13 @@
     
 
 ## SCREENSHOTS
-![Screenshot](images/s1.png)
-![Screenshot](images/s2.png)
-![Screenshot](images/s3.png)
-![Screenshot](/images/sss.png)
+
+![alt text](/images/sss.png)
+![alt text](images/sss.png)
 
 ## SetUp / Installation Requirements
   Clone the repo by running:
-*   git clone https://github.com/Gakori/awwards.git
+*   git clone https://github.com/Gakori/pandas.git
 
  Navigate to the project directory;
 *   cd pandas
