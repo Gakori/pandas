@@ -2,7 +2,8 @@
  PANDAS COLAB
 
 ## AUTHOR
- Built By Faith Gakori
+ * Built By Faith Gakori
+ * Sharon
 
 ## PROJECT DESCRIPTION
  The project is used to analyse the perfomance of MTN company in Ivory Coast.As a data scientist, I am required to analyse the problem statement and come with various solution. All the analysis is done in a colab notebook by using python pandas.lastly, write a report using the CRISP-DM methodology.
